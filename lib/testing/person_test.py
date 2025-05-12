@@ -7,7 +7,7 @@ import sys
 import types
 
 class TestPerson:
-    '''Person in person.py'''
+    '''Person in person.py''' 
 
     def test_is_class(self):
         '''is a class with the name "Person"'''
